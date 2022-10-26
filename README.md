@@ -1,2 +1,1 @@
-# DummyRepo
-# To go through a git course.
+# DummyRepo readme.md
